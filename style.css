@@ -13,10 +13,21 @@ body {
   border-color: black;
   border-width: 5px;
   border-style: solid;
-  margin: 5%;
   margin-right: 70%;
+  float:right;
 }
 #lista2 {
   margin: 5%;
   padding-left: 30%;
+  display: inline-block;
+}
+.lado-esquerdo {
+  display: inline-block;
+  text-align: center;
+  width: 50%;
+}
+.lado-direito {
+  float: right;
+  text-align: center;
+  width: 50%;
 }
