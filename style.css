@@ -1,14 +1,16 @@
 body {
   background-color: rgb(253, 251, 251);
 }
+
 #cabecalho {
   position: fixed;
   top: 0px;
   text-align: center;
   left: 30%;
-  font-family:'Open Sans';
+  font-family: 'Open Sans, sans-serif';
   color:blueviolet;
 }
+
 #lista1 {
   margin-top: 500px;
   border-color: black;
@@ -17,17 +19,20 @@ body {
   margin-right: 70%;
   float:right;
 }
+
 #lista2 {
   margin: 5%;
   padding-left: 30%;
   display: inline-block;
 }
+
 .lado-esquerdo {
   display: inline-block;
   text-align: center;
   width: 50%;
   font-size: 40px;
 }
+
 .lado-direito {
   float: right;
   text-align: center;
