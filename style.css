@@ -4,11 +4,11 @@ body {
 
 #cabecalho {
   position: fixed;
-  top: 0px;
+  top: 0;
   text-align: center;
   left: 30%;
-  font-family: 'Open Sans, sans-serif';
-  color:blueviolet;
+  font-family: 'Open Sans, Helvetica, sans-serif';
+  color:blueviolet; 
 }
 
 #lista1 {
@@ -17,7 +17,7 @@ body {
   border-width: 5px;
   border-style: solid;
   margin-right: 70%;
-  float:right;
+  float:right; 
 }
 
 #lista2 {
