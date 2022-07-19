@@ -4,6 +4,9 @@ body {
 #cabecalho {
   position: fixed;
   top: 0px;
+  text-align: center;
+  left: 30%;
+  
 }
 #lista1 {
   margin-top: 300px;
